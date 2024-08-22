@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haopeng Ren（任浩鹏）"
+title                    : "Haopeng Ren"
 description              : "Postdoctoral fellow at Nanyang Technological University"
 repository               : "betterAndTogether/haopengRen.github.io"
 google_scholar_stats_use_cdn : false
