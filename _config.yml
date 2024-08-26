@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haopeng Ren"
-description              : "Postdoctoral fellow at Nanyang Technological University"
+description              : "This is the academic homepage of Ph.D. Ren."
 repository               : "betterAndTogether/haopengRen.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -15,8 +15,8 @@ google_scholar_stats_use_cdn : false
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :   # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Nanyang Technological University"
   location         : "Singapore"
-  employer         : #"Hefei General Machinery Research Institute"
+  employer         : #"Nanyang Technological University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=neVE7dIAAAAJ"
   email            : "haopeng.ren@ntu.edu.sg"
