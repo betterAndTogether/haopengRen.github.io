@@ -42,6 +42,7 @@ a smarter future.
 
 
 # 📰 <span style="color:red">News!!</span>
+- 👍👍👍 *2026.01*  Accept one paper <span style="color:blue">Class-Incremental Cloud-Device Collaborative Adaptation With Contrastive Learning in Dynamic Changing Environments (TNNLS 2026)</span>.
 - 👍👍👍 *2025.12*  Accept one paper <span style="color:blue">Modality Augmentation and Task-Aware Dual-Modal LoRAs for Multi-Task Multimodal Federated Learning (IPM 2025)</span>.
 - 👍👍👍 *2025.11*  Awarded a <span style="color:blue">General Funding Grant from the China Postdoctoral Science Foundation (CPSF)</span>. This grant will support my research on **<span style="color:blue">Procedural Knowledge Understanding, Extraction and Reasoning</span>** which will be Applied in Embodied Intelligence Domain in the future.
 - 👍👍👍 *2025.10*  Formed the Embodied Intelligence Group, and Have Our Own WeChat Official Account- **<span style="color:blue">Gzhu-Embodied AI Group</span>**. 
@@ -67,6 +68,15 @@ a smarter future.
 # 📝 Publications
 
 ---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2026</div><img src='images/TNNLS2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Yushi Zeng, `Haopeng Ren` (Co-first author), Yi Cai, Yingjian Li, Yaowei Wang, Qing Li. Class-Incremental Cloud-Device Collaborative Adaptation With Contrastive Learning in Dynamic Changing Environments *Accepted Journal TNNLS*, 2026. 
+[[网页]](None) 
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM 2025</div><img src='images/IPM2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -204,6 +214,7 @@ Focus: Standard Knowledge Graph Construction and Intelligent Applications, inclu
 - *2018 – 2020* Huawei Technologies Co., Ltd Algorithm Engineer
 
 Focus: Knowledge Graph Construction for Intelligent Manufacturing, including Data Cleaning and denosing; Text Understanding and Knowledge Extraction
+
 
 
 
