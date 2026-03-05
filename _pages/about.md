@@ -140,7 +140,8 @@ a smarter future.
 </div>
 </div>
 
-
+- Hao Liu, Dong Li, Bing Zeng, `Haopeng Ren`. Graph attention convolutional networks for interpretable multi-hop knowledge graph reasoning. *Information Processing & Management(IPM)*. 2026  
+[[网页]](https://api.semanticscholar.org/CorpusID:284418218) 
 
 - Yushi Zeng, Guohua Wang, `Haopeng Ren`, Yi Cai, Ho-fung Leung, Qing Li, Qingbao Huang. A knowledge-enhanced and topic-guided domain adaptation model for aspect-based sentiment analysis. *IEEE Transactions on Affective Computing(TAFFC)*. 2023  
 [[网页]](https://doi.org/10.1109/TAFFC.2023.3292213) 
@@ -214,6 +215,7 @@ Focus: Standard Knowledge Graph Construction and Intelligent Applications, inclu
 - *2018 – 2020* Huawei Technologies Co., Ltd Algorithm Engineer
 
 Focus: Knowledge Graph Construction for Intelligent Manufacturing, including Data Cleaning and denosing; Text Understanding and Knowledge Extraction
+
 
 
 
