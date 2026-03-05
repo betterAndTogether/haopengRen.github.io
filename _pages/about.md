@@ -72,7 +72,7 @@ a smarter future.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2026</div><img src='images/TNNLS2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Yushi Zeng, `Haopeng Ren` (Co-first author), Yi Cai, Yingjian Li, Yaowei Wang, Qing Li. Class-Incremental Cloud-Device Collaborative Adaptation With Contrastive Learning in Dynamic Changing Environments *Accepted Journal TNNLS*, 2026. 
+-	Yushi Zeng, `Haopeng Ren`, Yi Cai, Yingjian Li, Yaowei Wang, Qing Li. Class-Incremental Cloud-Device Collaborative Adaptation With Contrastive Learning in Dynamic Changing Environments *Accepted Journal TNNLS*, 2026. 
 [[网页]](None) 
 
 </div>
@@ -214,6 +214,7 @@ Focus: Standard Knowledge Graph Construction and Intelligent Applications, inclu
 - *2018 – 2020* Huawei Technologies Co., Ltd Algorithm Engineer
 
 Focus: Knowledge Graph Construction for Intelligent Manufacturing, including Data Cleaning and denosing; Text Understanding and Knowledge Extraction
+
 
 
 
