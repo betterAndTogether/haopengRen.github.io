@@ -42,6 +42,7 @@ a smarter future.
 
 
 # 📰 <span style="color:red">News!!</span>
+- 👍👍👍 *2026.09*  Awarded a <span style="color:blue">Fund of the National Natural Science Foundation of China</span>. This grant will support my research on **<span style="color:blue">Procedural Knowledge Understanding, Extraction and Reasoning</span>** which will be Applied in Embodied Intelligence Domain in the future.
 - 👍👍👍 *2026.01*  Accept one paper <span style="color:blue">Class-Incremental Cloud-Device Collaborative Adaptation With Contrastive Learning in Dynamic Changing Environments (TNNLS 2026)</span>.
 - 👍👍👍 *2025.12*  Accept one paper <span style="color:blue">Modality Augmentation and Task-Aware Dual-Modal LoRAs for Multi-Task Multimodal Federated Learning (IPM 2025)</span>.
 - 👍👍👍 *2025.11*  Awarded a <span style="color:blue">General Funding Grant from the China Postdoctoral Science Foundation (CPSF)</span>. This grant will support my research on **<span style="color:blue">Procedural Knowledge Understanding, Extraction and Reasoning</span>** which will be Applied in Embodied Intelligence Domain in the future.
