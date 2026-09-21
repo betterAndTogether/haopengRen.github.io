@@ -60,7 +60,7 @@ a smarter future.
 <div class='paper-box-image' style="text-align: center;">
   <div style="display: inline-block;">
     <div class="badge">Gzhu-Embodied AI Group</div>
-    <img src='images/Logo-Named.jpg' alt="sym" style="display: block; margin: 0 auto; max-width: 60%;">
+    <img src='images/Logo-Named.png' alt="sym" style="display: block; margin: 0 auto; max-width: 60%;">
   </div>
 </div>
 
