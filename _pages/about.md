@@ -61,7 +61,7 @@ a smarter future.
   <div style="display: inline-block;">
     <div class="badge">Gzhu-Embodied AI Group</div>
     <img src='images/Logo-Named.png' alt="sym" style="display: block; margin: 0 auto; max-width: 60%;">
-    <img src='images/wechat_official_account.png' alt="sym" style="display: block; margin: 0 auto; max-width: 60%;">
+    <img src='images/wechat_official_account.png' alt="sym" style="display: block; margin: 0 auto; max-width: 20%;">
   </div>
 </div>
 
